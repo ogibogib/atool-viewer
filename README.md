@@ -69,7 +69,7 @@ aion2tool.com의 전투력 계산식을 프로그램 내에 자체 구현하여 
 4. 오버레이를 **클릭**하면 해당 캐릭터의 aion2tool 페이지가 브라우저에서 열림
 5. **ESC** 키로 오버레이 닫기
 
-![상세조회](images/detail.gif)
+<img src="images/detail.gif" alt="상세조회" width="600">
 
 ### 내 캐릭터 전투력 조회
 
@@ -80,7 +80,7 @@ aion2tool.com의 전투력 계산식을 프로그램 내에 자체 구현하여 
 
 - 원정대, 초월 등에서 **파장(파티장)**일 때, 파티 신청자의 아툴 점수가 자동으로 오버레이에 표시됩니다.
 
-![파티신청](images/party.gif)
+<img src="images/party.gif" alt="파티신청" width="600">
 
 ---
 
